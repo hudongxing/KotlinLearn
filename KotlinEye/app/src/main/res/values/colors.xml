@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3C5F78</color>
+    <color name="colorPrimaryDark">#3C5F78</color>
+    <color name="colorAccent">#DDF9FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#848383</color>
+    <color name="black">#000000</color>
+    <color name="divider">#e6e6e6</color>
+    <color name="transparent">#0000</color>
+    <color name="textbg">#8F9AA8</color>
+    <color name="textColorPrimary">#3C5F78</color>
+    <color name="textColorSecondary">#3C5F78</color>
+    <color name="background">#3C5F78</color>
+    <color name="colorControlActivated">#7AFFFFFF</color>
+    <color name="colorControlHighlight">#7AFFFFFF</color>
+    <color name="actionMode.background">#9CBDCC</color>
+    <color name="popupMenu.background">#B4D2E0</color>
+
+</resources>
